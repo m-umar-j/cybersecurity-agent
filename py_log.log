@@ -1,0 +1,4 @@
+INFO:root:CompletedProcess(args=['sqlmap'], returncode=0)
+WARNING:root:A WARNING
+ERROR:root:An ERROR
+CRITICAL:root:A message of CRITICAL severity
