@@ -16,4 +16,4 @@ $ python3 -m venv venv
 $ source venv/bin/activate
 `
 ## Test Graph schema
-![Test Schema](image.png)
+![Test Schema](graph.png)
